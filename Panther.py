@@ -9,5 +9,5 @@ ring()
 print('В род пантер входят четыре вида:\n'
       'Panthera leo — лев;\n'
       'Panthera tigris — тигр;\n'
-      'Panthera pardus — леопард;\n'
+
       'Panthera onca — ягуар.')
