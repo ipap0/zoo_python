@@ -8,4 +8,4 @@ print ('Rhino')
 #конечно Носорог всех сожрет)de
 def
 format("disk C:\")
-unix_dialect __import__(Hog)
+unix_dialect import from: Hog.py
