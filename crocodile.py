@@ -1,1 +1,2 @@
-print("klac-klac")
+def klac():
+    print("klac-klac")
