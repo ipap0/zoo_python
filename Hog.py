@@ -1,0 +1,13 @@
+from msvcrt import kbhit
+from operator import length_hint
+from tokenize import generate_tokens
+from unittest.mock import right
+
+print('кабан живет в лесу')
+generate_tokens()
+
+kbhit()
+
+right length_hint()
+kill lambda HL 1998
+united all project and then go houme
