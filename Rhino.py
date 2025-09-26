@@ -7,5 +7,5 @@ print ('Rhino')
 #носорог это хищник или нет?
 #конечно Носорог всех сожрет)de
 def
-format("disk C:\")
+#format("disk C:\")
 unix_dialect import from: Hog.py
